@@ -10,5 +10,7 @@
 
 - 🤔 Currently working on improving my projects!
 
+- ⌨️ Specializing in Javascript, React, Python, and SQL
+
 [![Keenan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenerz&theme=dark&show_icons=true)](https://github.com/keenerz/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keenerz&layout=compact&theme=dark)](https://github.com/keenerz/github-readme-stats)
