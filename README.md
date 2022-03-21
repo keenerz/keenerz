@@ -11,4 +11,4 @@
 - 🤔 Currently working on improving my projects!
 
 [![Keenan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenerz)](https://github.com/keenerz/github-readme-stats&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keenerz)](https://github.com/keenerz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keenerz&layout=compact)](https://github.com/keenerz/github-readme-stats)
