@@ -7,4 +7,5 @@
   Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tinkering with computers and love to be on the cutting edge of the latest     technologies.
 
 -Pronouns: He/Him
+
 -Currently working on improving my projects!
