@@ -9,3 +9,5 @@
 - 👨 Pronouns: He/Him
 
 - 🤔 Currently working on improving my projects!
+
+[![Keenan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenerz)](https://github.com/keenerz/github-readme-stats)
