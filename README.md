@@ -1,6 +1,6 @@
   ### Hello and Welcome! 👋
   - - -
-  <h2>Lets Connect!</h2>
+  <h4>Lets Connect!</h4>
   <a href="https://www.linkedin.com/in/keenankan/" target="_blank"><img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/LinkedIn.png?raw=true"></a>
   <a href="https://twitter.com/KeenanSKan" target="_blank"><img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/Twitter.png?raw=true"></a>
   <br>
