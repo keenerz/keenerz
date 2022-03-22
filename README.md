@@ -17,7 +17,10 @@ Languages:
 <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/javascript.png?raw=true" />
  <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/reactjsjs.png?raw=true" />
  <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/pythontrue.png?raw=true" /> 
- <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/flask.png?raw=true" />
+ <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/flask2.png?raw=true" />
+  <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/postgressql.png?raw=true" />
+  <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/html5.png?raw=true" />
+  <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/css3.png?raw=true" />
   </div>
 <br/ >
 <hr />
