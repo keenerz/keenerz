@@ -14,7 +14,10 @@ Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tin
 <hr />
 Languages:
 <div>
-<img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/javascript.png?raw=true" /><img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/reactjsjs.png?raw=true" /><img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/pythontrue.png?raw=true" /> <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/flask.png?raw=true" />
+<img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/javascript.png?raw=true" />
+ <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/reactjsjs.png?raw=true" />
+ <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/pythontrue.png?raw=true" /> 
+ <img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/flask.png?raw=true" />
   </div>
 <br/ >
 <hr />
