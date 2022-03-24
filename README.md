@@ -1,12 +1,12 @@
 ### Hello and Welcome! 👋
   - - -  
-Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tinkering with computers and love to be on the cutting edge of the latest     technologies.
+Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tinkering with computers and love to be on the cutting edge of the latest technologies.
 
 - 👨 Pronouns: He/Him
 
 - 🤔 Currently working on improving my projects!
 
-- ⌨️ Specializing in Javascript, React, Python, SQL, and HTML5/CSS3
+- ⌨️ Specializing in Javascript, React, Python, PostgreSQL, and HTML5/CSS3
 ---
 <h4>Lets Connect:</h4>
 <a href="https://www.linkedin.com/in/keenankan/" target="_blank"><img height="30" src="https://github.com/keenerz/keenerz/blob/main/Resources/LinkedIn.png?raw=true" /></a>
