@@ -1,4 +1,5 @@
 ### Hello and Welcome! 👋
+<img src="https://img.shields.io/github/commit-activity/w/keenerz/MechGroupBuyTracker" />
   - - -  
 Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tinkering with computers and love to be on the cutting edge of the latest technologies.
 
