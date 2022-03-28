@@ -3,9 +3,10 @@
 <hr />
 Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tinkering with computers and love to be on the cutting edge of the latest technologies.
 
-- 👨 Pronouns: He/Him
 
-- 🤔 Currently working on improving my projects!
+- 🤔 Currently working on MechGroupBuyTracker, Car Maintainer, and theCRM!
+
+- 👨 Pronouns: He/Him
 
 - ⌨️ Specializing in Javascript, React, Python, PostgreSQL, and HTML5/CSS3
 ---
