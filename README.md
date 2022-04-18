@@ -5,6 +5,8 @@ Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tin
 
 - 🤔 Currently working on MechGroupBuyTracker and CarMaintainer!
 
+- ❤️ Love tinkering with technology, building custom computers and desktops
+
 - 🥅 Current Goals: Expand my knowledge and keep on coding. 
 
 - 👨 Pronouns: He/Him
