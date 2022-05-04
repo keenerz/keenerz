@@ -3,7 +3,7 @@
 Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tinkering with computers and love to be on the cutting edge of the latest technologies.
 
 
-- 🤔 Currently working on MechGroupBuyTracker and CarMaintainer!
+- 🤔 Currently working on a freelance Project with the MDC, MechGroupBuyTracker and CarMaintainer!
 
 - ❤️ Love tinkering with technology, building custom computers and desktops
 
