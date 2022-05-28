@@ -3,11 +3,11 @@
 Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tinkering with computers and love to be on the cutting edge of the latest technologies.
 
 
-- 🤔 Currently working on a freelance project with the MDC!
+- 🤔 Currently working on a freelance project with the MDC! Learning C#
 
 - ❤️ Love tinkering with technology, building custom computers and mechanical keyboards.
 
-- 🥅 Current Goals: Expand my knowledge and keep on coding. 
+- 🥅 Current Goals: Expand my knowledge and keep on coding.
 
 - 👨 Pronouns: He/Him
 
