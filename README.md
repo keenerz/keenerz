@@ -7,7 +7,7 @@ Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tin
 
 - ❤️ Love tinkering with technology, building custom computers and mechanical keyboards.
 
-- 🥅 Current Goals: Expand my knowledge and keep on coding.
+- 🥅 Current Goals: Expand my knowledge of objected oriented programming and keep on coding.
 
 - 👨 Pronouns: He/Him
 
