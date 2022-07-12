@@ -3,7 +3,7 @@
 Hello I'm Keenan Kan a web developer born and raised in Miami, FL. I grew up tinkering with computers and love to be on the cutting edge of the latest technologies.
 
 
-- 🤔 Currently working on a project with 4Geeks Academy and Learning .NET/C#!
+- 🤔 Currently working on a project with 4Geeks Academy, Learning .NET/C# and improving my Typescript!
 
 - ❤️ Love tinkering with technology, building custom computers and mechanical keyboards.
 
